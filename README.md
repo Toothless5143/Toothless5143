@@ -13,6 +13,16 @@
 
 - ⚡ Fun fact **I play chess**
 
+<br><br>
+
+<h2>Pinned Repositories</h2>
+<div>
+<img align="left" alt="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=calm&show_owner=true" /> 
+<img align="center" alt="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Subby&theme=calm&show_owner=true" /> 
+
+</div>
+
+<br><br><br><br><br><br>
 
 <h2>Github Stats</h2>
 <div align="center">
