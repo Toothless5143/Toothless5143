@@ -21,7 +21,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=calm)](https://github.com/Toothless5143/Fuzzy)
 </div>
-<div align="right">
+<div align="left">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Subby&theme=calm)](https://github.com/Toothless5143/Subby)
 </div>
