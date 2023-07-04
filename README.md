@@ -19,32 +19,32 @@
 
 <div align="left">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=calm)](https://github.com/Toothless5143/Fuzzy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=transparent)](https://github.com/Toothless5143/Fuzzy)
 </div>
 
 <div align="left">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Subby&theme=calm)](https://github.com/Toothless5143/Subby)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Subby&theme=transparent)](https://github.com/Toothless5143/Subby)
 </div>
 
 <div align="left">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Git-Scrappy&theme=calm)](https://github.com/Toothless5143/Git-Scrappy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Git-Scrappy&theme=transparent)](https://github.com/Toothless5143/Git-Scrappy)
 </div>
 
 <div align="left">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Reports&theme=calm)](https://github.com/Toothless5143/Reports)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Reports&theme=transparent)](https://github.com/Toothless5143/Reports)
 </div>
 
 <div align="left">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Bug-hunting&theme=calm)](https://github.com/Toothless5143/Bug-hunting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Bug-hunting&theme=transparent)](https://github.com/Toothless5143/Bug-hunting)
 </div>
 
 <div align="left">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Pentest-Tools-Loader&theme=calm)](https://github.com/Toothless5143/Pentest-Tools-Loader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Pentest-Tools-Loader&theme=transparent)](https://github.com/Toothless5143/Pentest-Tools-Loader)
 </div>
 
 
@@ -55,11 +55,11 @@
 <h2>Github Stats</h2>
 <div align="center">
 <br>
-<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toothless5143&theme=calm&langs_count=50&layout=compact&count_private=true&hide_progress=true" />
+<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toothless5143&theme=transparent&langs_count=50&layout=compact&count_private=true&hide_progress=true" />
 <br><br>
-<img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Toothless5143&count_private=true&show_icons=true&theme=calm" /> 
+<img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Toothless5143&count_private=true&show_icons=true&theme=transparent" /> 
 <br><br>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Toothless5143&theme=calm&count_private=true" />  
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Toothless5143&theme=transparent&count_private=true" />  
 <br><br> 
 </div>
 
