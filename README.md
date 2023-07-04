@@ -15,6 +15,17 @@
 
 <br><br>
 
+<h2>Pinned</h2>
+
+<div align="left">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=calm)](https://github.com/Toothless5143/Fuzzy)
+</div>
+<div align="right">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Subby&theme=calm)](https://github.com/Toothless5143/Subby)
+</div>
+
 <h2>Github Stats</h2>
 <div align="center">
 <br>
