@@ -17,7 +17,8 @@
 
 <h2>Pinned Repositories</h2>
 <div>
-<img align="left" alt="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=calm&show_owner=true" /> 
+<a href="https://github.com/Toothless5143/Fuzzy">
+<img align="left" alt="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=calm&show_owner=true" /> </a>
 <img align="center" alt="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Subby&theme=calm&show_owner=true" /> 
 
 </div>
