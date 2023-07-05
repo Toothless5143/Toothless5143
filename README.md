@@ -57,7 +57,7 @@
 <br>
 <img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toothless5143&theme=calm&langs_count=50&layout=compact&count_private=true&hide_progress=true" />
 <br><br>
-<img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Toothless5143&count_private=true&show_icons=true&theme=calm" /> 
+<img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Toothless5143&count_private=true&show_icons=true&theme=calm&rank_icon=github" /> 
 <br><br>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Toothless5143&theme=calm&count_private=true" />  
 <br><br> 
