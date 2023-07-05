@@ -28,7 +28,7 @@
 </div>
 
 <div align="left">
-  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Git-Scrappy&theme=calm)](https://github.com/Toothless5143/Git-Scrappy)
 </div>
 
