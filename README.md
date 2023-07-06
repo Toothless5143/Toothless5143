@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safwan Luban</h1>
-<h3 align="center">A self taught ethical hacker and cyber security enthuasist.</h3>
+<h3 align="center">A self taught ethical hacker and cyber security researcher.</h3>
 
 - 🌱 I’m currently mastering **bug hunting**
 
