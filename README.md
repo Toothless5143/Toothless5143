@@ -15,58 +15,6 @@
 
 <br><br>
 
-<h2>Pinned</h2>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Fuzzy&theme=calm)](https://github.com/Toothless5143/Fuzzy)
-</div>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Subby&theme=calm)](https://github.com/Toothless5143/Subby)
-</div>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Reports&theme=calm)](https://github.com/Toothless5143/Reports)
-</div>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Crawlly&theme=calm)](https://github.com/Toothless5143/Crawlly)
-</div>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Bug-hunting&theme=calm)](https://github.com/Toothless5143/Bug-hunting)
-</div>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Pentest-Tools-Loader&theme=calm)](https://github.com/Toothless5143/Pentest-Tools-Loader)
-</div>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=NScanny&theme=calm)](https://github.com/Toothless5143/Nscanny)
-</div>
-
-<div align="left">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=SQLI-Scanny&theme=calm)](https://github.com/Toothless5143/SQLI-Scanny)
-</div>
-
-<div align="left">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Toothless5143&repo=Git-Scrappy&theme=calm)](https://github.com/Toothless5143/Git-Scrappy)
-</div>
-
-
-
-
-<br><br>
-
 <h2>Github Stats</h2>
 <div align="center">
 <br>
