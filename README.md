@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safwan Luban</h1>
 <h3 align="center">A self taught ethical hacker and cyber security researcher.</h3>
 
-- 🌱 I’m currently mastering **bug hunting**
+- 🌱 I’m currently mastering **web app pentesting**
 
 - 📝 I regularly write articles on [https://toothless5143.medium.com/](https://toothless5143.medium.com/)
 
