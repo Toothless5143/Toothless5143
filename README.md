@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Safwan Luban</h1>
 <h3 align="center">A self-taught Ethical Hacker and an Independent Security Researcher.</h3>
 
-- 🌱 I’m currently mastering **web app pentesting**
+- 🌱 I’m currently mastering **pen-testing**
 
-- 📝 I regularly write articles on [https://toothless5143.medium.com/](https://toothless5143.medium.com/)
+- 📝 I write articles on [https://toothless5143.medium.com/](https://toothless5143.medium.com/)
 
 - 💬 Ask me about **cyber security**
 
