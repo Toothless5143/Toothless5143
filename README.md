@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safwan Luban</h1>
 <h3 align="center">A self-taught Ethical Hacker and an Independent Security Researcher.</h3>
 
-- 🌱 I’m currently hardening **pen-testing** skills
+- 🌱 I’m currently hardening my **pen-testing** skills
 
 - 📝 I write articles on [https://toothless5143.medium.com/](https://toothless5143.medium.com/)
 
