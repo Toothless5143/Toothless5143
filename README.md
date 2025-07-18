@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **cyber security**
 
-- 📫 How to reach me **contact@safwanluban.xyz**
+- 📫 How to reach me **contact@safwanluban.com**
 
-- 📄 Know about my experiences [https://safwanluban.xyz/](https://safwanluban.xyz/)
+- 📄 Know about my experiences [https://safwanluban.com/](https://safwanluban.com/)
 
 - ⚡ Fun fact **I play chess**
 
